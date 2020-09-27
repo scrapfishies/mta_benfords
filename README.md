@@ -6,7 +6,7 @@ Since watching that episode, I'd had it in the back of my mind that I wanted to 
 
 I recently started [Metis' Data Science Bootcamp](https://www.thisismetis.com/) and our first project was to conduct some exploratory data analysis on [MTA Turnstile data](http://web.mta.info/developers/turnstile.html).
 
-With the presentation behind me, I decided to dig a little more into the data and see how well the MTA turnstile data fit Benford's Law.
+With the project behind me, I decided to dig a little more into the data and see how well the MTA turnstile data fit Benford's Law.
 
 A quick primer on Benford's Law from Wikipedia:
 
