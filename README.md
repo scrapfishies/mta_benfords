@@ -1,6 +1,6 @@
 # Does MTA turnstile data follow Benford's Law? 
 
-I recently learned about [**Benford's Law**](https://en.wikipedia.org/wiki/Benford%27s_law) through the [Netflix series, Connected with Latif Nasser](https://www.netflix.com/title/81031737#:~:text=Digits&text=Latif%20explores%20a%20law%20of,and%20perhaps%20the%20entire%20universe.). Episode 4: 'Digits' explores how Benford's Law applies to music, social media, tax fraud, and more. It's a fun show and I'd highly recommend checking it out if you can!
+I recently learned about [**Benford's Law**](https://en.wikipedia.org/wiki/Benford%27s_law) through the Netflix series [Connected, with Latif Nasser](https://www.netflix.com/title/81031737#:~:text=Digits&text=Latif%20explores%20a%20law%20of,and%20perhaps%20the%20entire%20universe.). Episode 4: 'Digits' explores how Benford's Law applies to music, social media, tax fraud, and more. It's a fun show and I'd highly recommend checking it out if you can!
 
 A quick primer on Benford's Law from Wikipedia:
 
