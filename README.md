@@ -16,4 +16,4 @@ I recently started [Metis' Data Science Bootcamp](https://www.thisismetis.com/) 
 
 With the project behind me, I decided to dig a little more into the data and see how well the MTA turnstile data fit Benford's Law.
 
-Check out [my article on Medium](https://medium.com/@cdoenlen/does-mta-turnstile-data-follow-benfords-law-e236028bd5b5) and dig into my [Jupyter Notebook](https://github.com/scrapfishies/mta_benfords/blob/master/mta_benfords.ipynb) where I explore the data. Feedback welcome!
+Check out [my article on Medium](https://medium.com/@scrapfishies/does-mta-turnstile-data-follow-benfords-law-e236028bd5b5) and dig into my [Jupyter Notebook](https://github.com/scrapfishies/mta_benfords/blob/master/mta_benfords.ipynb) where I explore the data. Feedback welcome!
